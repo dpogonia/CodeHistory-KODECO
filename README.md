@@ -19,8 +19,8 @@ SwiftUI.
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/CodeHistory-Kodeco.git
-cd CodeHistory-Kodeco
+git clone https://github.com/dpogonia/CodeHistory-KODECO.git
+cd CodeHistory-KODECO
 open CodeHistory.xcodeproj
 ```
 
